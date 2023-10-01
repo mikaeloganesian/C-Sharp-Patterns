@@ -1,0 +1,14 @@
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\correct-input-data\correct-input-data\bin\Debug\net6.0\correct-input-data.exe
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\correct-input-data\correct-input-data\bin\Debug\net6.0\correct-input-data.deps.json
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\correct-input-data\correct-input-data\bin\Debug\net6.0\correct-input-data.runtimeconfig.json
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\correct-input-data\correct-input-data\bin\Debug\net6.0\correct-input-data.dll
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\correct-input-data\correct-input-data\bin\Debug\net6.0\correct-input-data.pdb
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\correct-input-data\correct-input-data\obj\Debug\net6.0\correct-input-data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\correct-input-data\correct-input-data\obj\Debug\net6.0\correct-input-data.AssemblyInfoInputs.cache
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\correct-input-data\correct-input-data\obj\Debug\net6.0\correct-input-data.AssemblyInfo.cs
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\correct-input-data\correct-input-data\obj\Debug\net6.0\correct-input-data.csproj.CoreCompileInputs.cache
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\correct-input-data\correct-input-data\obj\Debug\net6.0\correct-input-data.dll
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\correct-input-data\correct-input-data\obj\Debug\net6.0\refint\correct-input-data.dll
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\correct-input-data\correct-input-data\obj\Debug\net6.0\correct-input-data.pdb
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\correct-input-data\correct-input-data\obj\Debug\net6.0\correct-input-data.genruntimeconfig.cache
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\correct-input-data\correct-input-data\obj\Debug\net6.0\ref\correct-input-data.dll
