@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "correct-input-data", "correct-input-data\correct-input-data.csproj", "{6F16ECBD-8240-4959-975B-B3EEDCDADAAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#-Patterns", "correct-input-data\C#-Patterns.csproj", "{6F16ECBD-8240-4959-975B-B3EEDCDADAAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
