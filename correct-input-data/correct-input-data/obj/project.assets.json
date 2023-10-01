@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikae\\OneDrive\\Документы\\Program Files\\GitHub\\C-Sharp-Patterns\\correct-input-data\\correct-input-data\\correct-input-data.csproj",
-      "projectName": "correct-input-data",
-      "projectPath": "C:\\Users\\mikae\\OneDrive\\Документы\\Program Files\\GitHub\\C-Sharp-Patterns\\correct-input-data\\correct-input-data\\correct-input-data.csproj",
+      "projectUniqueName": "C:\\Users\\mikae\\OneDrive\\Документы\\Program Files\\GitHub\\C-Sharp-Patterns\\correct-input-data\\correct-input-data\\C#-Patterns.csproj",
+      "projectName": "C#-Patterns",
+      "projectPath": "C:\\Users\\mikae\\OneDrive\\Документы\\Program Files\\GitHub\\C-Sharp-Patterns\\correct-input-data\\correct-input-data\\C#-Patterns.csproj",
       "packagesPath": "C:\\Users\\mikae\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mikae\\OneDrive\\Документы\\Program Files\\GitHub\\C-Sharp-Patterns\\correct-input-data\\correct-input-data\\obj\\",
       "projectStyle": "PackageReference",
