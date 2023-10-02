@@ -10,7 +10,7 @@ namespace Correct_Input_Data
     {
         public static void No_Repeat_Int()
         {
-            Console.WriteLine("Enter input data (Type: Int):");
+            Console.WriteLine("\nEnter input data (Type: Int):");
             string? s = Console.ReadLine();
             if (!int.TryParse(s, out int d))
             {
@@ -21,7 +21,7 @@ namespace Correct_Input_Data
 
         public static void No_Repeat_Double()
         {
-            Console.WriteLine("Enter input data (Type: Double):");
+            Console.WriteLine("\nEnter input data (Type: Double):");
             string? s = Console.ReadLine();
             if (!double.TryParse(s, out double d))
             {
@@ -31,7 +31,7 @@ namespace Correct_Input_Data
         }
 
        public static void No_Repeat_String() {
-            Console.WriteLine("Enter input data (Type: String):");
+            Console.WriteLine("\nEnter input data (Type: String):");
             string? s = Console.ReadLine();
             if (s == null || s.Replace(" ", "").Length == 0 || string.IsNullOrEmpty(s))
             {
@@ -45,7 +45,7 @@ namespace Correct_Input_Data
     {
         public static void Repeat_Int()
         {
-            Console.WriteLine("Enter input data (Type: Int):");
+            Console.WriteLine("\nEnter input data (Type: Int):");
             string? s = Console.ReadLine();
             int i;
             do
@@ -60,7 +60,7 @@ namespace Correct_Input_Data
 
         public static void Repeat_Double()
         {
-            Console.WriteLine("Enter input data (Type: Double):");
+            Console.WriteLine("\nEnter input data (Type: Double):");
             string? s = Console.ReadLine().Replace(".", ",");
             double i;
             do
@@ -75,7 +75,7 @@ namespace Correct_Input_Data
     
         public static void Repeat_String()
         {
-            Console.WriteLine("Enter input data (Type: String):");
+            Console.WriteLine("\nEnter input data (Type: String):");
             string? s = Console.ReadLine();
             do
             {

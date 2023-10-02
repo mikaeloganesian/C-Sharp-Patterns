@@ -1,0 +1,14 @@
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\C#-Patterns\C#-Pattens\bin\Debug\net6.0\C#-Patterns.exe
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\C#-Patterns\C#-Pattens\bin\Debug\net6.0\C#-Patterns.deps.json
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\C#-Patterns\C#-Pattens\bin\Debug\net6.0\C#-Patterns.runtimeconfig.json
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\C#-Patterns\C#-Pattens\bin\Debug\net6.0\C#-Patterns.dll
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\C#-Patterns\C#-Pattens\bin\Debug\net6.0\C#-Patterns.pdb
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\C#-Patterns\C#-Pattens\obj\Debug\net6.0\C#-Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\C#-Patterns\C#-Pattens\obj\Debug\net6.0\C#-Patterns.AssemblyInfoInputs.cache
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\C#-Patterns\C#-Pattens\obj\Debug\net6.0\C#-Patterns.AssemblyInfo.cs
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\C#-Patterns\C#-Pattens\obj\Debug\net6.0\C#-Patterns.csproj.CoreCompileInputs.cache
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\C#-Patterns\C#-Pattens\obj\Debug\net6.0\C#-Patterns.dll
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\C#-Patterns\C#-Pattens\obj\Debug\net6.0\refint\C#-Patterns.dll
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\C#-Patterns\C#-Pattens\obj\Debug\net6.0\C#-Patterns.pdb
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\C#-Patterns\C#-Pattens\obj\Debug\net6.0\C#-Patterns.genruntimeconfig.cache
+C:\Users\mikae\OneDrive\Документы\Program Files\GitHub\C-Sharp-Patterns\C#-Patterns\C#-Pattens\obj\Debug\net6.0\ref\C#-Patterns.dll

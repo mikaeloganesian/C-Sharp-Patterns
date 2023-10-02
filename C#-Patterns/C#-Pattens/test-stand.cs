@@ -4,12 +4,18 @@ class Program
 {
     static void Main(string[] args)
     {
-        //Корректность входных данных с точкой выхода программы
+        //Повторение программы без точки выхода.
+        Repeated_Prog.Eternal_Cycle.Eternal_Without_Exit();
+
+        //Повторение программы с точкой выхода ( -> управление командами ).
+        Repeated_Prog.Eternal_Cycle.Eternal_With_Exit();
+
+        //Корректность входных данных с точкой выхода программы.
         Correct_Input_Data.No_Repeat.No_Repeat_Int();
         Correct_Input_Data.No_Repeat.No_Repeat_Double();
         Correct_Input_Data.No_Repeat.No_Repeat_String();
 
-        //Корректность входных данных с повторяющимся вводом
+        //Корректность входных данных с повторяющимся вводом.
         Correct_Input_Data.Repeat.Repeat_Int();
         Correct_Input_Data.Repeat.Repeat_Double();
         Correct_Input_Data.Repeat.Repeat_String();
